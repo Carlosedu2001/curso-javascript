@@ -1,2 +1,2 @@
-# curso-javascript
-Curso Introdução ao Javascript
+# Curso Javascript
+Projetos com Javascript
