@@ -45,4 +45,4 @@ function frase2 (n1, n2) {
     return `Sua soma é ${soma}, que é ${r10} 10 e ${r20} 20.`;
 }
 
-console.log(comparaNum(10, 10));
+console.log(comparaNum(100, 100));
