@@ -14,7 +14,7 @@ function substituiNum(array) {
     return array;
 }
 
-let lista = [2, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17];
-let lista2 = [];
-console.log(substituiNum(lista));
-console.log(substituiNum(lista2));
+let vetor = [2, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17];
+let vetor2 = [];
+console.log(substituiNum(vetor));
+console.log(substituiNum(vetor2));
